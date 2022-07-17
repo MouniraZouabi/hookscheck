@@ -1,0 +1,12 @@
+.MovieList{
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: Arial;
+    text-align: center;
+
+}
+
+.MovieList >*{
+    margin: 2%;
+}
